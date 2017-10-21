@@ -23,6 +23,3 @@ console-message: 'You are not a player! Only players can use this command!'
 
 # PERMISSIONS  
 aac.use  
-
-# BUKKIt
-say hi
