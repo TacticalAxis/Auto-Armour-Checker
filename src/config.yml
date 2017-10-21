@@ -36,7 +36,7 @@ arrow-head: '&7>>'
 armour-remove-message: '&a{target}&7''s armour was taken off!'
 no-permission-message: '&cYou do not have permission to use this command!'
 offline-player-message: '&cThat player either does not exist, or is offline!'
-cmd-usage-message: '&4Usage: &c/as <player>'
+cmd-usage-message: '&4Usage: &c/ac <player>'
 console-message: '&4You are not a player! Only players can use this command!'
 
 ###########################################################################################

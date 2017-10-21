@@ -29,11 +29,11 @@ public class Function implements CommandExecutor {
         final String arrowVar = (this.config.getString("arrow-head")).toString();
         final String arrowheadparsed = (arrowVar.replace("", "")).toString();
         final String server = (this.translate(servernameparsed + " " + arrowheadparsed + " ")).toString();
-        if (command.getName().equalsIgnoreCase("as")) {
+        if (command.getName().equalsIgnoreCase("ac")) {
             if (sender instanceof Player) {
                 final Player p = (Player) sender;
                 if (args.length > 0) {
-                    if (p.hasPermission("aaa.use")) {
+                    if (p.hasPermission("aac.use")) {
                         if (args.length > 1) {
                             p.sendMessage(" ");
                             p.sendMessage(" ");
