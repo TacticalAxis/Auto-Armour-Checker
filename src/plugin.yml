@@ -1,7 +1,7 @@
 main: tacticalaxis.aac.Main
-version: 1.9999999
+version: 1.0
 author: TacticalAxis
-name: Anti-Auto-Armour
+name: Auto-Armour Checker
 website: https://pixelcubemc.ddns.net/tacticalaxis/
 description: Take off a players armour if they put armour on too quickly
 commands:
