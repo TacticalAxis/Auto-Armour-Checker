@@ -14,7 +14,7 @@ public class Main extends JavaPlugin {
     public void onEnable() {
         final PluginDescriptionFile pdf = this.getDescription();
         final Logger l = this.getLogger();
-        this.getCommand("as").setExecutor(new Function(this));
+        this.getCommand("ac").setExecutor(new Function(this));
         l.info(String.valueOf(ChatColor.GOLD + pdf.getName()) + ChatColor.AQUA + " by " + ChatColor.DARK_GREEN + pdf.getAuthors() + ChatColor.GREEN + " has been enabled. You are currently running version" + ChatColor.BLUE + pdf.getVersion());
         final File c = new File(this.getDataFolder(), "config.yml");
         if (!c.exists()) {
