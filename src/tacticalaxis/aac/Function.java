@@ -55,7 +55,7 @@ public class Function implements CommandExecutor {
                         p.sendMessage(server + nopermissionmessage);
                     }
                 } else if (args.length == 0) {
-                    if (p.hasPermission("aaa.use")) {
+                    if (p.hasPermission("aac.use")) {
                         p.sendMessage("  ");
                         p.sendMessage(" ");
                         p.sendMessage(" ");
