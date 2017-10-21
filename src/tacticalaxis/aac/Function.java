@@ -62,7 +62,7 @@ public class Function implements CommandExecutor {
                         p.sendMessage("§2§l§m=============================================");
                         p.sendMessage(server + pluginname);
                         p.sendMessage(commandusagemessage);
-                        p.sendMessage("§2§l§m=============================================");
+                        p.sendMessage("§2§l§m=====================j========================");
                     } else {
                         p.sendMessage(server + nopermissionmessage);
                     }
