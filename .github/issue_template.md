@@ -43,7 +43,7 @@ MINECRAFT VERSION:
 
 ##################################################  
 WHAT SPIGOT/BUKKIT VERSION WERE YOU USING?  
-Check the server logs to see what version of 
+Check the server logs to see what version of  
 Spigot/Bukkit you were using.  
 ##################################################  
 SPIGOT/BUKKIT VERSION:  
